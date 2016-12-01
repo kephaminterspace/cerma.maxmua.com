@@ -7,9 +7,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
-    <title>Tital gel Nga - Yêu Lành Mạnh</title>
-    <meta content="Titan gel Nga, Titan gel" name="keywords">
-    <meta content="Titan gel Nga, Nhà phân phối Yêu Lành Mạnh" name="description">
+    <title>Sản phẩm xử lý, phục hồi động cơ xe máy</title>
+    <meta content="xử lý, phục hồi động cơ xe máy" name="keywords">
+    <meta content="Xe của bạn phát ra tiếng kêu lớn từ động cơ – Nguyên nhân chủ yếu do động cơ có quá nhiều mảng bám Cacbon, hợp chất thừa trong nhiên liệu khi đốt cháy. Động cơ hoạt động lâu ngày ma sát làm cho bề mặt kim loại bên trong bị xước, bề mặt không còn phẳng mịn, làm ma sát tăng lên, động cơ nóng quá mức chịu đựng. Dẫn đến hiệu suất giảm, tiếng ồn và độ rung ngày càng cao.
+Với những trường hợp như vậy, sau quãng đường đi 40.000 – 50.000km chắc cắn bạn sẽ phải đi bảo dưỡng lớn. ÍT thì thay một vài bộ phận, nhiều thì phải bổ máy, làm lại hơi. " name="description">
     <link rel="shortcut icon" href="img/favicon.png" />
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&subset=vietnamese" rel="stylesheet">
     <link rel="shortcut icon" href="media/images/favicon.png" />
