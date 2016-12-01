@@ -108,6 +108,26 @@ $curl_errors = curl_error($ch);
 				ga('send', 'pageview');
 
 			</script>
+
+			<!-- Facebook Pixel Code -->
+			<script>
+				!function(f,b,e,v,n,t,s)
+				{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+					n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+					if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+					n.queue=[];t=b.createElement(e);t.async=!0;
+					t.src=v;s=b.getElementsByTagName(e)[0];
+					s.parentNode.insertBefore(t,s)}(window,document,'script',
+					'https://connect.facebook.net/en_US/fbevents.js');
+				fbq('init', '962961677145104');
+				fbq('track', 'PageView');
+			</script>
+			<noscript>
+				<img height="1" width="1"
+					 src="https://www.facebook.com/tr?id=962961677145104&ev=PageView&noscript=1"/>
+			</noscript>
+			<!-- End Facebook Pixel Code -->
+
 		</head>
         <body>
             <!-- Header -->
@@ -519,59 +539,59 @@ Liên hệ trực tiếp Cerma Việt Nam để được tư vấn.</p>
         		</div>
     		</section>
 
-	        <section class="ewm-section ewm-pots" style="background-color: #eaeaea;">
-	        	<div class="container">
-	        		<div class="row">
-	        			<div class="col-md-12 ewm-center">
-	        				<div class="textwidget margin-bottom-40px">
-	        					<h3>Sản phẩm khác</h3>
+			<section class="ewm-section ewm-pots" style="background-color: #eaeaea;">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 ewm-center">
+							<div class="textwidget margin-bottom-40px">
+								<h3>Sản phẩm khác</h3>
 							</div>
-	        			</div>
+						</div>
 
-	        			<div class="col-md-3">
-	        				<div class="ewm-post">
-	        					<div class="wpb_single_image">
-									<img width="307" height="307" src="images/1.jpg" alt="1" sizes="(max-width: 307px) 100vw, 307px">
+						<div class="col-md-3">
+							<div class="ewm-post">
+								<div class="wpb_single_image">
+									<img width="307" height="307" src="images/car1.jpg" alt="1" sizes="(max-width: 307px) 100vw, 307px">
 								</div>
 
-								<div class="textwidget"><p>CERMA 10w30 Synthetic Motor Oil – Xăng (Dầu …</p></div>
-	        				</div>
-	        			</div>
+								<div class="textwidget"><p>Chất xử lý Treatment</p></div>
+							</div>
+						</div>
 
-	        			<div class="col-md-3">
-	        				<div class="ewm-post">
-	        					<div class="wpb_single_image">
-									<img width="307" height="307" src="images/2.jpg" alt="1" sizes="(max-width: 307px) 100vw, 307px">
+						<div class="col-md-3">
+							<div class="ewm-post">
+								<div class="wpb_single_image">
+									<img width="307" height="307" src="images/car2.jpg" alt="1" sizes="(max-width: 307px) 100vw, 307px">
 								</div>
 
-								<div class="textwidget"><p>CERMA 10w30 Synthetic Motor Oil – Xăng (Dầu …</p></div>
-	        				</div>
-	        			</div>
+								<div class="textwidget"><p>Dầu động cơ Motor oil</p></div>
+							</div>
+						</div>
 
-	        			<div class="col-md-3">
-	        				<div class="ewm-post">
-	        					<div class="wpb_single_image">
-									<img width="307" height="307" src="images/3.jpg" alt="1" sizes="(max-width: 307px) 100vw, 307px">
+						<div class="col-md-3">
+							<div class="ewm-post">
+								<div class="wpb_single_image">
+									<img width="307" height="307" src="images/car3.jpg" alt="1" sizes="(max-width: 307px) 100vw, 307px">
 								</div>
 
-								<div class="textwidget"><p>CCerma C•S•L Firearm Foam and Grease (Bọt …</p></div>
-	        				</div>
-	        			</div>
+								<div class="textwidget"><p>Hệ thống điều hòa Blue Ice</p></div>
+							</div>
+						</div>
 
-	        			<div class="col-md-3">
-	        				<div class="ewm-post">
-	        					<div class="wpb_single_image">
-									<img width="307" height="307" src="images/4.jpg" alt="1" sizes="(max-width: 307px) 100vw, 307px">
+						<div class="col-md-3">
+							<div class="ewm-post">
+								<div class="wpb_single_image">
+									<img width="307" height="307" src="images/car4.png" alt="1" sizes="(max-width: 307px) 100vw, 307px">
 								</div>
 
-								<div class="textwidget"><p>Transmission Treatment – Manual (Chất xử lý …</p></div>
-	        				</div>
-	        			</div>
+								<div class="textwidget"><p>Mỡ & dầu chuyên dụng (Grease & lube)</p></div>
+							</div>
+						</div>
 
-	        			<div class="ewm-showmore ewm-center margin-top-30px"><a class="read-more ewm-text-link" href="#" title="XEM TẤT CẢ">XEM TẤT CẢ</a></div>
-	        		</div>
-        		</div>
-    		</section>
+						<div class="ewm-showmore ewm-center margin-top-30px"><a class="read-more ewm-text-link" href="#" title="XEM TẤT CẢ">XEM TẤT CẢ</a></div>
+					</div>
+				</div>
+			</section>
 
     		<div class="footer-menu">
 			    <div class="container">
