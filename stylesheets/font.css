@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'TeXGyreHerosCondensed-Bold';
+  src: url('../font/TeXGyreHerosCondensed-Bold.eot');
+  src: url('../font/TeXGyreHerosCondensed-Bold.woff2') format('woff2'),
+       url('../font/TeXGyreHerosCondensed-Bold.woff') format('woff'),
+       url('../font/TeXGyreHerosCondensed-Bold.ttf') format('truetype'),
+       url('../font/TeXGyreHerosCondensed-Bold.svg#TeXGyreHerosCondensed-Bold') format('svg'),
+       url('../font/TeXGyreHerosCondensed-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
