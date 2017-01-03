@@ -430,7 +430,7 @@ Josh Borne là một nhà vô địch của cuộc thi biểu diễn moto tự d
 								<input type="text" name="address" value="<?php if(isset($_POST['address'])) { echo $_POST['address']; } ?>" class='insert-attr' required  oninvalid="setCustomValidity('Địa chỉ là bắt buộc!')" oninput="setCustomValidity('')"/>
 							</div>
 							<div class="textarea-wrap">
-								<label>Ý kiến khác *</label>
+								<label>Ý kiến khác</label>
 								<textarea class="" tabindex="4" name="note" id="message"><?php if(isset($_POST['note'])) { echo $_POST['note']; } ?></textarea>
 							</div>
 							<input type="hidden" name="aff_source" id="aff_source" class="aff_source" value=""/>
